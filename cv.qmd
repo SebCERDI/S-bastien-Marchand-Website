@@ -29,5 +29,5 @@ My research focuses on agricultural, environmental and climate economics in deve
 
 A detaile version of my CV is available here.
 
-[Download short CV (PDF)](files/cv-long.pdf){.btn .btn-primary}
+[Download short CV (PDF)](files/cv_long.pdf){.btn .btn-primary}
 
