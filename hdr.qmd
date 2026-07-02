@@ -1,0 +1,24 @@
+---
+title: "HDR Thesis"
+---
+
+In 2022, I received my Habilitation to Supervise Research (HDR) from Université Clermont Auvergne.
+
+## HDR examination committee
+
+**External reviewers (rapporteurs)**
+
+- **Tanguy Bernard**, Professor, Université de Bordeaux, Bordeaux Sciences Économiques
+- **Stéphane Blancard**, Professor, AgroSup Dijon, CESAER
+- **Raja Chakir**, Research Director, INRAE, Paris-Saclay Applied Economics
+
+**Committee members**
+
+- Catherine Araujo Bonjean, Research Fellow, CNRS, CERDI
+- Vianney Dequiedt, Professor, Université Clermont Auvergne, CERDI
+
+My HDR thesis, *La durabilité des systèmes de production agricole dans les pays en développement* \[Sustainability of agricultural production systems in developing countries\], brings together my work on sustainable agriculture in China, land use and deforestation in Brazil, climate risks, environmental governance, and ecosystem services.
+
+The manuscript is written in French.
+
+[Download the HDR thesis (PDF)](files/hdr-thesis.pdf){.btn .btn-primary}

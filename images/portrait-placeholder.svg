@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="960" viewBox="0 0 800 960" role="img" aria-labelledby="title desc">
+  <title id="title">Sébastien Marchand placeholder portrait</title>
+  <desc id="desc">A monogram placeholder using the initials SM.</desc>
+  <rect width="800" height="960" fill="#e8f0ed"/>
+  <rect x="44" y="44" width="712" height="872" rx="28" fill="#173b36"/>
+  <circle cx="400" cy="330" r="142" fill="#b56d24" opacity="0.96"/>
+  <path d="M162 809c23-178 127-279 238-279s215 101 238 279" fill="#b56d24" opacity="0.96"/>
+  <text x="400" y="900" text-anchor="middle" font-family="Georgia, serif" font-size="96" font-weight="700" fill="#fcfbf8">SM</text>
+</svg>

@@ -1,0 +1,178 @@
+/* Sébastien Marchand — personal academic website */
+
+:root {
+  --sm-ink: #1e2927;
+  --sm-green: #173b36;
+  --sm-green-soft: #e8f0ed;
+  --sm-ochre: #b56d24;
+  --sm-paper: #fcfbf8;
+  --sm-line: #d9dfda;
+}
+
+body {
+  color: var(--sm-ink);
+  background: var(--sm-paper);
+  font-size: 0.95rem;
+  line-height: 1.72;
+}
+
+.navbar {
+  border-bottom: 1px solid var(--sm-line);
+  background: rgba(252, 251, 248, 0.96) !important;
+  backdrop-filter: blur(8px);
+}
+
+.navbar-brand,
+.navbar-nav .nav-link.active,
+a {
+  color: var(--sm-green);
+}
+
+.navbar-brand {
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+.navbar-nav .nav-link {
+  font-size: 0.96rem;
+}
+
+.navbar-nav .nav-link:hover,
+a:hover {
+  color: var(--sm-ochre);
+}
+
+h1, h2, h3, h4 {
+  color: var(--sm-green);
+  font-weight: 700;
+  letter-spacing: -0.025em;
+}
+
+h1 {
+  font-size: clamp(2.3rem, 4vw, 3.8rem);
+}
+
+h2 {
+  margin-top: 2.7rem;
+  border-bottom: 1px solid var(--sm-line);
+  padding-bottom: 0.35rem;
+}
+
+h3 {
+  margin-top: 1.6rem;
+  font-size: 1.34rem;
+}
+
+.about-entity {
+  font-size: 1.08rem;
+}
+
+.hero-kicker {
+  color: var(--sm-ochre);
+  font-weight: 700;
+  font-size: 0.82rem;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  margin-bottom: 0.9rem;
+}
+
+.action-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.65rem;
+  margin: 1.8rem 0 2.4rem;
+}
+
+.btn-primary {
+  --bs-btn-bg: var(--sm-green);
+  --bs-btn-border-color: var(--sm-green);
+  --bs-btn-hover-bg: #0f2c28;
+  --bs-btn-hover-border-color: #0f2c28;
+}
+
+.btn-outline-dark {
+  --bs-btn-color: var(--sm-green);
+  --bs-btn-border-color: var(--sm-green);
+  --bs-btn-hover-bg: var(--sm-green);
+  --bs-btn-hover-border-color: var(--sm-green);
+}
+
+.research-card,
+.paper-feature,
+.publication,
+.site-note {
+  border: 1px solid var(--sm-line);
+  border-radius: 0.5rem;
+  background: #fff;
+}
+
+.research-card {
+  height: 100%;
+  padding: 1.45rem 1.5rem;
+  margin-bottom: 1.1rem;
+}
+
+.research-card h3 {
+  margin-top: 0;
+}
+
+.paper-feature {
+  padding: 1.25rem 1.4rem;
+  margin: 1rem 0;
+  border-left: 4px solid var(--sm-ochre);
+}
+
+.paper-feature h3,
+.publication h3 {
+  margin-top: 0;
+}
+
+.publication {
+  padding: 1.25rem 1.4rem;
+  margin: 1.05rem 0;
+}
+
+.site-note {
+  background: var(--sm-green-soft);
+  padding: 1rem 1.15rem;
+  margin: 2rem 0;
+  font-size: 0.95rem;
+}
+
+#TOC {
+  font-size: 0.87rem;
+}
+
+#TOC .nav-link.active {
+  color: var(--sm-ochre);
+  border-left-color: var(--sm-ochre);
+}
+
+.quarto-title-meta,
+.quarto-title-block .quarto-title-meta {
+  color: #6b746f;
+}
+
+footer.footer {
+  margin-top: 4rem;
+  border-top: 1px solid var(--sm-line);
+  color: #5d6762;
+  font-size: 0.88rem;
+}
+
+@media (max-width: 991px) {
+  #TOC {
+    display: none;
+  }
+}
+
+a {
+  color: #0b6e69;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #064c49;
+  text-decoration: underline;
+}

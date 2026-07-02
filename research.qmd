@@ -1,0 +1,182 @@
+---
+title: "Projects"
+---
+
+My research examines how environmental constraints, institutions, and public
+policies shape production, land use, and development in low- and middle-income
+countries. It combines microeconometric methods with field surveys,
+administrative data, environmental data, and cross-country datasets.
+
+## ECOTERM: Ecosystem services of termite mounds in Cambodia
+
+[ECOTERM](https://cerdi.uca.fr/version-francaise/recherche/projets-de-recherche/ecoterm#/)
+is an interdisciplinary research project on the ecosystem services provided by
+termite mounds in agricultural landscapes in Cambodia. It brings together
+economists, ecologists, anthropologists, botanists, and soil scientists.
+
+Within the project, I lead the economics work package. Our work investigates
+how termite mounds affect rice production, farmers' input use, land allocation,
+and rural livelihoods. We combine repeated farm and plot-level surveys with
+ecological information to understand whether termite mounds act as productive
+assets, biodiversity reservoirs, or constraints for agricultural households.
+
+Current work includes research on termite mounds and rice yields, as well as a
+study of their implications for input allocation and agricultural
+misallocation.
+
+**Related work**
+
+- Lao, C., M. Audibert, P. Jouquet, R. Muon, K. Sok, and S. Marchand.
+  *Beyond the Surface: When Termite Mounds Affect Rice Production in Cambodia?*
+  Submitted manuscript.
+
+---
+
+## Agriculture and rural environmental change in China
+
+This research programme examines the sustainability of agricultural production
+in China, with a particular focus on family farming, input use, environmental
+performance, and the consequences of industrial development for rural areas.
+
+My work has studied environmental efficiency in conventional and non-certified
+organic rice farming, social interactions and input spillovers among family
+farmers, and the effects of industrial water pollution on rice production. It
+shows that environmental performance depends not only on the production
+technology itself, but also on farmers' experience, local interactions, and
+exposure to external environmental pressures.
+
+**Selected publications**
+
+- Marchand, S. and H. Guo (2014). [The environmental efficiency of
+  non-certified organic farming in China: A case study of paddy rice
+  production](https://doi.org/10.1016/j.chieco.2014.09.006). *China Economic
+  Review*, 31, 201--216.
+
+- Guo, H. and S. Marchand (2019). [Social interactions and spillover effects
+  in Chinese family farming](https://doi.org/10.1080/00220388.2018.1443206).
+  *The Journal of Development Studies*, 55(11), 2306--2328.
+
+- Marchand, S., M. Barro, H. Xiong, and H. Guo (2025). [Industrial water
+  pollution and farmer adaptation: Evidence from rice farming in
+  Jiangsu, China](https://doi.org/10.1111/agec.12867). *Agricultural
+  Economics*, 56(1), 108--123.
+
+---
+
+## Media, air pollution, and environmental governance in China
+
+This project studies the role of information and public attention in
+environmental regulation. It asks whether media coverage can act as an informal
+mechanism of accountability by influencing citizens, local governments, and
+firms.
+
+Using daily data on media sentiment, air quality, weather, and industrial
+activity across Chinese cities, this research examines how the emotional tone of
+environmental news is associated with pollution outcomes. Current extensions
+focus on social media discussions and on firms' emissions behaviour.
+
+**Selected publication**
+
+- Marchand, S., D. Cubizol, E. Nasho Ah-Pine, and H. Guo (2025). [Mass media
+  as an environmental watchdog? Evidence from the war on air pollution in
+  China](https://doi.org/10.1017/S1355770X25100284). *Environment and
+  Development Economics*, 1--25.
+
+**Current work**
+
+- Marchand, S., D. Cubizol, and H. Guo. *Sentiment Analysis and Air Pollution:
+  Evidence from Weibo Posts in China.*
+
+- Marchand, S., D. Cubizol, and H. Guo. *Sentiment Analysis and Air Pollution:
+  Evidence from Industrial Firms in China.*
+
+---
+
+## Forests, land use, and forest-based development
+
+My research on forests builds on my doctoral work on institutions and
+deforestation in developing countries, as well as on my postdoctoral experience
+in Brazil.
+
+In 2012, I was a postdoctoral researcher at the Federal University of Viçosa,
+working in collaboration with the Institute for Applied Economic Research
+([IPEA](https://www.ipea.gov.br/)) in Rio de Janeiro. I worked with
+[José Gustavo Feres](https://epge.fgv.br/pt/professor/jose-gustavo-feres) as
+part of the [Rede Amazônia Sustentável](https://ras-network.org/) (RAS;
+Sustainable Amazon Network), an interdisciplinary initiative led by
+[Toby Gardner](https://www.sei.org/people/toby-gardner/) on the social and
+environmental dimensions of land-use change in the Brazilian Amazon.
+
+This line of research has addressed the relationship between agricultural
+productivity and deforestation, conservation incentives for local governments,
+the persistence of low-income and environmentally degrading land uses, and the
+effects of log export bans on wood processing and employment in developing
+countries.
+
+**Selected publications**
+
+- Marchand, S. (2012). [The relationship between technical efficiency in
+  agriculture and deforestation in the Brazilian
+  Amazon](https://doi.org/10.1016/j.ecolecon.2012.02.025). *Ecological
+  Economics*, 77, 166--175.
+
+- Sauquet, A., S. Marchand, and J. G. Feres (2014). [Protected areas, local
+  governments, and strategic interactions: The case of the ICMS-Ecológico in
+  the Brazilian state of Paraná](https://doi.org/10.1016/j.ecolecon.2014.09.008).
+  *Ecological Economics*, 107, 249--258.
+
+- Garrett, R. D., T. A. Gardner, T. F. Morello, S. Marchand, J. Barlow,
+  D. Ezzine de Blas, J. Ferreira, A. C. Lees, and L. Parry (2017).
+  [Explaining the persistence of low income and environmentally degrading land
+  uses in the Brazilian Amazon](https://doi.org/10.5751/ES-09364-220327).
+  *Ecology and Society*, 22(3).
+
+- Marchand, S. and M. Zerbo (2023). [Revisiting the trade
+  restrictions-industrialization nexus in developing countries: The case of log
+  export ban and wood processing](https://doi.org/10.1561/112.00000562).
+  *Journal of Forest Economics*, 38(2), 195--233.
+
+- Marchand, S. and M. Zerbo (2025). [Enhancing employment through log export
+  ban: Insights from wood-processing firms in developing
+  countries](https://doi.org/10.1016/j.forpol.2025.103491). *Forest Policy and
+  Economics*, 174, 103491.
+
+---
+
+## Climate risks, vulnerability, and adaptation
+
+A more recent part of my research examines how climate risks affect production
+systems and how public policies can support adaptation in developing countries.
+
+This work includes research on the effects of extreme climate events on
+agricultural efficiency in Vietnam, the measurement of physical vulnerability
+to cyclonic risks, the valuation of insurance against low-probability risks,
+and the allocation of international adaptation finance.
+
+**Selected publications and chapters**
+
+- Mankaï, S., S. Marchand, and N. H. Le (2024). [Valuing insurance against
+  small probability risks: A meta-analysis](https://doi.org/10.1016/j.socec.2024.102181).
+  *Journal of Behavioral and Experimental Economics*, 109, 102181.
+
+- Goujon, M. and S. Marchand (2023). *Measuring Vulnerability to Climate
+  Change.* In F. Cafarelli (ed.), *The Resilience of Territories Exposed to
+  Natural Hazards*. Mare & Martin. [in French]
+
+- Goujon, M., S. Marchand, and O. Santoni (2023). *A Comparative Measure of
+  Territorial Vulnerability to Cyclone Activity: The Case of Vietnam.* In
+  R. Bentirou Mathlouthi and A. Pomade (eds.), *Environmental
+  Vulnerabilities: Interdisciplinary Perspectives*. L'Harmattan. [in French]
+
+**Current work**
+
+- Beaucoral, P., M. Goujon, and S. Marchand. *No Plan, No Aid? The Effects of
+  National Adaptation Plan Implementation on Received Adaptation Aid.*
+  
+**Other work**
+
+- Diallo, Y., S. Marchand, and E. Espagne. *Impacts of Extreme Climate Events
+  on Technical Efficiency in Vietnamese Agriculture.*
+
+For a broader account of these research themes, see my
+[HDR thesis](hdr.qmd).

@@ -1,0 +1,121 @@
+---
+title: "Sébastien Marchand"
+page-layout: full
+about:
+  template: trestles
+  image: images/portrait.jpg
+  image-alt: "Monogram placeholder for Sébastien Marchand"
+  image-width: 12em
+  image-shape: rounded
+  links:
+    - icon: envelope
+      text: Email
+      href: "mailto:sebastien.marchand@uca.fr"
+    - icon: mortarboard
+      text: Google Scholar
+      href: "https://scholar.google.com/citations?user=I07nfQ4AAAAJ&hl=en"
+    - icon: person-badge
+      text: ORCID
+      href: "https://orcid.org/0000-0001-8265-5008"
+    - icon: journal-text
+      text: HAL
+      href: "https://cv.hal.science/sebastien-marchand"
+---
+
+::: {.hero-kicker}
+Development · Environmental · Agricultural Economics
+:::
+
+I am an Associate Professor (HDR) in Economics at [CERDI](https://cerdi.uca.fr/), Université Clermont Auvergne. 
+
+My research lies at the intersection of environmental and development economics.  I study how environmental constraints, institutions, and public policies shape production decisions and economic transformation in developing countries.
+
+I combine microeconometric methods with farm, firm, household, and
+country-level data. I have worked on deforestation and land-use change in the Brazilian Amazon; agricultural production, pollution, and farmer behaviour in China and Cambodia; and trade and industrial policies in forest-based sectors.
+
+My **current projects** examine the effects of termite mounds on rice production and agricultural input allocation in Cambodia, the role of media sentiment in environmental regulation in China, and whether national adaptation planning affects the allocation of international climate finance.
+
+Before joining CERDI in 2013, I was a **postdoctoral researcher** in Brazil, based at the Federal University of Viçosa and working in collaboration with the Institute for Applied Economic Research (IPEA) in Rio de Janeiro. I worked with [José Gustavo Feres](https://epge.fgv.br/pt/professor/jose-gustavo-feres) as part of the [Rede Amazônia Sustentável](https://ras-network.org/) (RAS; Sustainable Amazon Network), an interdisciplinary research initiative on the social and environmental dimensions of land-use change in the Brazilian Amazon, led by [Toby Gardner](https://www.sei.org/people/toby-gardner/).
+
+
+::: {.action-row}
+[Research](research.qmd){.btn .btn-primary}
+[Selected publications](publications.qmd){.btn .btn-outline-dark}
+[Contact](cv.qmd){.btn .btn-outline-dark}
+:::
+
+## Research at a glance
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+::: {.research-card}
+### Agriculture, ecosystems and productivity
+
+How farmers and production systems respond to land, pollution, weather shocks and ecological heterogeneity in Asia and Latin America.
+
+[Explore this research →](research.qmd#agriculture-ecosystems-and-productivity)
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.research-card}
+### Pollution, information and environmental governance
+
+How industrial pollution, regulation and environmental news affect firms, households and public decision-making in China.
+
+[Explore this research →](research.qmd#pollution-information-and-environmental-governance)
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.research-card}
+### Climate vulnerability and adaptation finance
+
+Whether climate finance is aligned with exposure, vulnerability and national adaptation planning in developing countries.
+
+[Explore this research →](research.qmd#climate-vulnerability-and-adaptation-finance)
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.research-card}
+### Forests, trade and structural transformation
+
+How forest policies and trade restrictions affect employment, industrialization and resource use.
+
+[Explore this research →](research.qmd#forests-trade-and-structural-transformation)
+:::
+:::
+
+:::
+
+## Selected work
+
+::: {.paper-feature}
+### [Enhancing employment through log export ban: Insights from wood-processing firms in developing countries](https://doi.org/10.1016/j.forpol.2025.103491)
+
+**Sébastien Marchand** and Mouhamed Zerbo. *Forest Policy and Economics* (2025).
+
+Using firm-level data across developing countries, this article studies how log export bans affect employment in wood-processing industries.
+:::
+
+::: {.paper-feature}
+### [Mass media as an environmental watchdog? Evidence from the war on air pollution in China](https://doi.org/10.1017/S1355770X25100284)
+
+**Sébastien Marchand**, Damien Cubizol, Elda Nasho Ah-Pine and Huanxiu Guo. *Environment and Development Economics* (2025).
+
+This article examines whether the emotional tone of environmental news functions as an informal regulatory force during China’s campaign against air pollution.
+:::
+
+::: {.paper-feature}
+### [The colonial origins of deforestation: an institutional analysis](https://doi.org/10.1017/S1355770X1500025X)
+
+**Sébastien Marchand**. *Environment and Development Economics* 21(3), 318–349 (2016).
+
+A historical-institutional analysis of cross-country differences in deforestation across former colonies.
+:::
+
+::: {.site-note}
+This starter site intentionally presents a **selected** research portfolio. The complete and continuously updated publication record remains available through [Google Scholar](https://scholar.google.com/citations?user=I07nfQ4AAAAJ&hl=en), [HAL](https://cv.hal.science/sebastien-marchand) and [ORCID](https://orcid.org/0000-0001-8265-5008).
+:::

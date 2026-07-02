@@ -1,0 +1,61 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - files/
+
+website:
+  title: "Sébastien Marchand"
+  description: "Development and environmental economist at CERDI, Université Clermont Auvergne."
+  site-url: "https://YOUR-GITHUB-USERNAME.github.io"
+  repo-url: "https://github.com/YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME.github.io"
+  repo-actions: [edit, issue]
+  navbar:
+    background: light
+    pinned: true
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: teaching.qmd
+        text: Teaching
+      - href: cv.qmd
+        text: CV & Contact
+      - href: hdr.qmd
+        text: HDR Thesis
+    right:
+      - icon: mortarboard
+        aria-label: Google Scholar
+        href: "https://scholar.google.com/citations?user=I07nfQ4AAAAJ&hl=en"
+      - icon: person-badge
+        aria-label: ORCID
+        href: "https://orcid.org/0000-0001-8265-5008"
+      - icon: journal-text
+        aria-label: HAL
+        href: "https://cv.hal.science/sebastien-marchand"
+      - icon: envelope
+        aria-label: Email
+        href: "mailto:sebastien.marchand@uca.fr"
+  page-footer:
+    left: "© 2026 Sébastien Marchand"
+    right: "CERDI · CNRS · Université Clermont Auvergne"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    toc-location: right
+    smooth-scroll: true
+    link-external-newwindow: true
+    grid:
+      body-width: 920px
+      margin-width: 240px
+      gutter-width: 1.6rem
+
+execute:
+  freeze: auto
+

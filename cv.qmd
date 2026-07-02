@@ -1,0 +1,33 @@
+---
+title: "CV & Contact"
+---
+
+## Contact
+
+**Sébastien Marchand**  
+Associate Professor (HDR) in Economics  
+CERDI · CNRS · Université Clermont Auvergne  
+Clermont-Ferrand, France  
+
+[sebastien.marchand@uca.fr](mailto:sebastien.marchand@uca.fr)
+
+## Profiles
+
+- [Google Scholar](https://scholar.google.com/citations?user=I07nfQ4AAAAJ&hl=en)
+- [ORCID](https://orcid.org/0000-0001-8265-5008)
+- [HAL](https://cv.hal.science/sebastien-marchand)
+- [IDEAS/RePEc](https://ideas.repec.org/f/pma1230.html)
+- [CERDI institutional profile](https://cerdi.uca.fr/version-francaise/unite/lequipe/annuaire/m-sebastien-marchand)
+
+## Short biography
+
+I obtained a PhD in Development Economics from CERDI, Université d’Auvergne, in 2011. I subsequently held a postdoctoral position at the Federal University of Viçosa in Brazil and have been an Associate Professor at CERDI, Université Clermont Auvergne, since 2013.
+
+My research focuses on agricultural, environmental and climate economics in developing and emerging countries, with particular attention to China, Viet Nam, Cambodia and Brazil.
+
+## Curriculum Vitae
+
+A detaile version of my CV is available here.
+
+[Download short CV (PDF)](files/cv-long.pdf){.btn .btn-primary}
+

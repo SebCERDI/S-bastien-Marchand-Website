@@ -1,0 +1,59 @@
+---
+title: "Publications"
+---
+
+## Peer-reviewed journal articles
+
+1. **Sébastien Marchand**, D. Cubizol, E. Nasho Ah-Pine, and H. Guo (2025). [Mass media as an environmental watchdog? Evidence from the war on air pollution in China](https://doi:10.1017/S1355770X25100284). *Environment and Development Economics*, 1–25.
+
+2. **Sébastien Marchand** and M. Zerbo (2025). [Enhancing employment through log export ban: Insights from wood-processing firms in developing countries](https://doi.org/10.1016/j.forpol.2025.103491). *Forest Policy and Economics*, 174, 103491.
+
+3. **Sébastien Marchand**, M. Barro, H. Xiong, and H. Guo (2025). [Industrial water pollution and farmer adaptation: Evidence from rice farming in Jiangsu, China](https://doi.org/10.1111/agec.12867). *Agricultural Economics*, 56(1), 108–123.
+
+4. T. B. Diop, S. Blancard, S. Legras, **Sébastien Marchand**, and L. Védrine (2024). [Exploring the linkages between farm efficiency, farm environmental performance, and agri-environmental scheme adoption: Lessons from France](https://doi.org/10.1016/j.jenvman.2024.121519). *Journal of Environmental Management*, 366, 121519.
+
+5. S. Mankaï, **Sébastien Marchand**, and N. H. Le (2024). [Valuing insurance against small probability risks: A meta-analysis](https://doi.org/10.1016/j.socec.2024.102181). *Journal of Behavioral and Experimental Economics*, 109, 102181.
+
+6. R. Muon, C. Lai, V. Hervé, R. Zaiss, F. Chassagne, E. Bureau-Point, **Sébastien Marchand**, M. Audibert, J. Berger, F. Wieringa *et al.* (2023). [Abundance, perceptions and utilizations of termite mounds in Cambodia](https://doi.org/10.1111/sum.12893). *Soil Use and Management*, 39(3), 1172–1184.
+
+7. **Sébastien Marchand** and M. Zerbo (2023). [Revisiting the trade restrictions–industrialisation nexus in developing countries: The case of log export ban and wood processing](http://dx.doi.org/10.1561/112.00000562). *Journal of Forest Economics*, 38(2), 195–233.
+
+8. H. Guo and **Sébastien Marchand** (2019). [Social interactions and spillover effects in Chinese family farming](https://doi.org/10.1080/00220388.2018.1443206). *The Journal of Development Studies*, 55(11), 2306–2328.
+
+9. R. D. Garrett, T. A. Gardner, T. F. Morello, **Sébastien Marchand**, J. Barlow, D. Ezzine de Blas, J. Ferreira, A. C. Lees, and L. Parry (2017). [Explaining the persistence of low income and environmentally degrading land uses in the Brazilian Amazon](https://doi.org/10.5751/ES-09364-220327). *Ecology and Society*, 22(3).
+
+10. **Sébastien Marchand** (2016). [The colonial origins of deforestation: An institutional analysis](https://doi.org/10.1017/S1355770X1500025X). *Environment and Development Economics*, 21(3), 318–349.
+
+11. A. Sauquet, **Sébastien Marchand**, and J. Férès (2014). [Protected areas, local governments, and strategic interactions: The case of the ICMS-Ecológico in the Brazilian state of Paraná](https://doi.org/10.1016/j.ecolecon.2014.09.008). *Ecological Economics*, 107, 249–258.
+
+12. **Sébastien Marchand** and H. Guo (2014). [The environmental efficiency of non-certified organic farming in China: A case study of paddy rice production](https://doi.org/10.1016/j.chieco.2014.09.006). *China Economic Review*, 31, 201–216.
+
+13. T. A. Gardner, J. Ferreira, J. Barlow, A. C. Lees, L. Parry, **Sébastien Marchand** *et al.* (2013). [A social and ecological assessment of tropical land-uses at multiple scales: The Sustainable Amazon Network](https://doi.org/10.1098/rstb.2012.0166). *Philosophical Transactions of the Royal Society B*, 368(1619).
+
+14. **Sébastien Marchand** (2012). [The relationship between technical efficiency in agriculture and deforestation in the Brazilian Amazon](https://doi.org/10.1016/j.ecolecon.2012.02.025). *Ecological Economics*, 77, 166–175.
+
+15. **Sébastien Marchand** (2012). [Legal origin, colonial origins and deforestation](http://www.accessecon.com/Pubs/EB/2012/Volume32/EB-12-V32-I2-P159.pdf). *Economics Bulletin*, 32(2), 1653–1670.
+
+## Book chapters
+
+1. M. Goujon, **Sébastien Marchand**, and O. Santoni (forthcoming, 2026). *The Physical Vulnerability Indicator to Climate Change: What Role Can It Play in Thinking About Adaptation Policies and Their Evaluation?* In H. Gérardin and M. Clément (eds.), *Development Policies, Actors and Evaluations*. Éditions EME.
+
+2. **Sébastien Marchand** and M. Goujon (2023). [Measuring Vulnerability to Climate Change](https://www.mareetmartin.com/livre/la-resilience-des-territoires-exposes-aux-risques-naturels). In F. Cafarelli (ed.), *The Resilience of Territories Exposed to Natural Hazards*. Mare & Martin. *[in French]*
+
+3. M. Goujon, **Sébastien Marchand**, and O. Santoni (2023). [A Comparative Measure of Territorial Vulnerability to Cyclone Activity: The Case of Vietnam](https://www.editions-harmattan.fr/catalogue/livre/vulnerabilite-s-environnementale-s/1451). In R. Bentirou Mathlouthi and A. Pomade (eds.), *Environmental Vulnerabilities: Interdisciplinary Perspectives*. L’Harmattan. *[in French]*
+
+## Submitted manuscripts and work in progress
+
+1. C. Lao, M. Audibert, P. Jouquet, R. Muon, K. Sok, and **Sébastien Marchand** (2025). *Beyond the Surface: When Termite Mounds Affect Rice Production in Cambodia?* Submitted to *World Development*.
+
+2. P. Beaucoral, M. Goujon, and **Sébastien Marchand** (2025). *No Plan, No Aid? The Effects of National Adaptation Plan Implementation on Received Adaptation Aid.*
+
+3. S. Chheang and **Sébastien Marchand**. *Termite Mounds, Input Allocation, and Agricultural Misallocation.*
+
+4. **Sébastien Marchand**, D. Cubizol, and H. Guo. *Sentiment Analysis and Air Pollution: Evidence from Weibo Posts in China.*
+
+5. **Sébastien Marchand**, D. Cubizol, and H. Guo. *Sentiment Analysis and Air Pollution: Evidence from Industrial Firms in China.*
+
+## Working papers
+
+1. Y. Diallo, **Sébastien Marchand**, and E. Espagne (2019). *Impacts of Extreme Climate Events on Technical Efficiency in Vietnamese Agriculture.* CERDI Working Paper 2019/12; AFD Research Papers.
