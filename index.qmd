@@ -23,7 +23,7 @@ about:
 ---
 
 ::: {.hero-kicker}
-Development · Environmental · Agricultural Economics
+Development · Environmental · Agricultural · Climate Economics
 :::
 
 I am an Associate Professor (HDR) in Economics at [CERDI](https://cerdi.uca.fr/), Université Clermont Auvergne. 
